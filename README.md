@@ -71,24 +71,26 @@ A full-stack real-time online auction platform where users can create auctions, 
 ---
 
 ## 📁 Project Structure
+
+```
 online-auction-system/
 ├── client/                  # React frontend (Vite)
 │   ├── src/
 │   └── .env
-│
 └── server/                  # Node.js backend
-├── server.js            # Entry point
-├── app.js               # Express app
-├── config/
-│   ├── db.config.js     # MongoDB connection
-│   └── env.config.js    # Environment variables
-├── controllers/         # Business logic
-├── models/              # Mongoose schemas
-├── routes/              # API routes
-├── socket/              # Socket.io handlers
-├── middleware/          # Auth middleware
-├── services/            # Cloudinary service
-└── utils/               # JWT, cookies, geo utils
+    ├── server.js            # Entry point
+    ├── app.js               # Express app
+    ├── config/
+    │   ├── db.config.js     # MongoDB connection
+    │   └── env.config.js    # Environment variables
+    ├── controllers/         # Business logic
+    ├── models/              # Mongoose schemas
+    ├── routes/              # API routes
+    ├── socket/              # Socket.io handlers
+    ├── middleware/          # Auth middleware
+    ├── services/            # Cloudinary service
+    └── utils/               # JWT, cookies, geo utils
+```
 ---
 
 ## ⚙️ Environment Variables
