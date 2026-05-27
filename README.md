@@ -15,20 +15,8 @@ A full-stack real-time online auction platform where users can create auctions, 
 **Live Demo:** [online-auction-system-lemon.vercel.app](https://online-auction-system-lemon.vercel.app)  
 **Backend API:** [online-auction-system-obeo.onrender.com](https://online-auction-system-obeo.onrender.com)
 
----
-# 🔨 Online Auction System
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-online--auction--system--lemon.vercel.app-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://online-auction-system-lemon.vercel.app)
-
-![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)
-![License](https://img.shields.io/github/license/mauryaharsh784/online-auction-system?style=flat-square)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-3b82f6?style=flat-square)
-![Stars](https://img.shields.io/github/stars/mauryaharsh784/online-auction-system?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/mauryaharsh784/online-auction-system?style=flat-square)
-
-[Report Bug](https://github.com/mauryaharsh784/online-auction-system/issues) · [Request Feature](https://github.com/mauryaharsh784/online-auction-system)
-
-## 📸 Screenshots        ← YAHAN
+## 📸 Screenshots        
 
 | Landing Page | Auction Page |
 |-------------|-------------|
@@ -44,63 +32,7 @@ A full-stack real-time online auction platform where users can create auctions, 
 
 ---
 
-# 🔨 Online Auction System
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-online--auction--system--lemon.vercel.app-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://online-auction-system-lemon.vercel.app)
-
-![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)
-![License](https://img.shields.io/github/license/mauryaharsh784/online-auction-system?style=flat-square)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-3b82f6?style=flat-square)
-![Stars](https://img.shields.io/github/stars/mauryaharsh784/online-auction-system?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/mauryaharsh784/online-auction-system?style=flat-square)
-
-[Report Bug](https://github.com/mauryaharsh784/online-auction-system/issues) · [Request Feature](https://github.com/mauryaharsh784/online-auction-system)
-
-## 📸 Screenshots        ← YAHAN
-
-| Landing Page | Auction Page |
-|-------------|-------------|
-| ![Landing Page](./screenshots/landingpage.png) | ![Auction Page](./screenshots/auctionpage.png) |
-
-| Dashboard | My Bids |
-|-----------|---------|
-| ![Dashboard](./screenshots/dashboard.png) | ![My Bids](./screenshots/mybids.png) |
-
-| Admin Dashboard | Auction Winner |
-|----------------|----------------|
-| ![Admin Dashboard](./screenshots/admindashboard.png) | ![Auction Winner](./screenshots/auctionwinner.png) |
-
----
-
-# 🔨 Online Auction System
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-online--auction--system--lemon.vercel.app-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://online-auction-system-lemon.vercel.app)
-
-![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)
-![License](https://img.shields.io/github/license/mauryaharsh784/online-auction-system?style=flat-square)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-3b82f6?style=flat-square)
-![Stars](https://img.shields.io/github/stars/mauryaharsh784/online-auction-system?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/mauryaharsh784/online-auction-system?style=flat-square)
-
-[Report Bug](https://github.com/mauryaharsh784/online-auction-system/issues) · [Request Feature](https://github.com/mauryaharsh784/online-auction-system)
-
-## 📸 Screenshots        ← YAHAN
-
-| Landing Page | Auction Page |
-|-------------|-------------|
-| ![Landing Page](./screenshots/landingpage.png) | ![Auction Page](./screenshots/auctionpage.png) |
-
-| Dashboard | My Bids |
-|-----------|---------|
-| ![Dashboard](./screenshots/dashboard.png) | ![My Bids](./screenshots/mybids.png) |
-
-| Admin Dashboard | Auction Winner |
-|----------------|----------------|
-| ![Admin Dashboard](./screenshots/admindashboard.png) | ![Auction Winner](./screenshots/auctionwinner.png) |
-
----
-
-A full-stack real-time online auction platform...
 
 ## ✨ Features
 
